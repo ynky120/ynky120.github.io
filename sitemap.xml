@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/index.html</loc>
+    <loc>/index.html</loc>
     <lastmod>2024-03-21T17:18:52+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/index.html</loc>
+    <loc>/posts/index.html</loc>
     <lastmod>2024-03-21T17:18:52+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%AF%95%E6%B0%B4/index.html</loc>
+    <loc>/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E8%AF%95%E6%B0%B4/index.html</loc>
     <lastmod>2024-03-21T17:18:52+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/myfirstarticle/index.html</loc>
+    <loc>/posts/myfirstarticle/index.html</loc>
     <lastmod>2024-03-21T17:03:38+08:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>/tags/index.html</loc>
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>/index.html</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Mar 2024 17:18:52 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/posts/index.html</link>
+      <link>/posts/index.html</link>
       <pubDate>Thu, 21 Mar 2024 17:18:52 +0800</pubDate>
-      <guid>http://localhost:1313/posts/index.html</guid>
+      <guid>/posts/index.html</guid>
       <description></description>
     </item>
   </channel>
