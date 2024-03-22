@@ -37,8 +37,24 @@
   </url><url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/tags/css/</loc>
+  </url><url>
+    <loc>/tags/html/</loc>
+  </url><url>
+    <loc>/tags/markdown/</loc>
+  </url><url>
     <loc>/series/</loc>
   </url><url>
+    <loc>/categories/syntax/</loc>
+  </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/posts/test-page/</loc>
+  </url><url>
+    <loc>/tags/themes/</loc>
+  </url><url>
+    <loc>/categories/themes/</loc>
+  </url><url>
+    <loc>/series/themes-guide/</loc>
   </url>
 </urlset>

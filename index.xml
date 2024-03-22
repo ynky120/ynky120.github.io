@@ -41,5 +41,12 @@
       <guid>/posts/myfirstarticle/</guid>
       <description>这是我的第一篇博客内容 </description>
     </item>
+    <item>
+      <title>test page</title>
+      <link>/posts/test-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/posts/test-page/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
   </channel>
 </rss>
