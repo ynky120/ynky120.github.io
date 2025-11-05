@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文章 on 雷子的博客</title>
+    <link>http://localhost:1313/zh/posts/</link>
+    <description>Recent content in 文章 on 雷子的博客</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 05 Nov 2025 03:55:51 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随手记录</title>
+      <link>http://localhost:1313/zh/posts/%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Wed, 05 Nov 2025 03:55:51 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%BD%95/</guid>
+      <description>&lt;p&gt;主题
+首先，
+昼热夜凉，下丘脑形成了这个规律，人的核心降温，从而促进褪黑素的分泌。如果室温恒定，这种降温就无法进行，褪黑素分泌会受到影响，最终导致睡眠不能按时进行。
+卢梭认为，早于人类理性的人性，一个是追求幸福的本能，另一个就是天生的同情心。为了弄明白什么是人天生的品质，什么是后天学会的东西，需要先走入自然状态。（这里我的问题就是，什么才是自然状态？是人类学关注的原始部落吗？还是哲学家自己构筑的理论模型？）
+不平等的类型：自然的不平等与制度的不平等。
+其实所谓探索自然的状态，实际是在追溯一种道德本源，
+卢梭对于原始人男女之情的想象简直是胡说八道，不必细究。
+不过，卢梭在胡说八道之余，往往又会有一些耐人寻味的金句。比如，在谈到原始人社会的发展原地踏步时，他认为是教育不兴的缘故。然而，什么是教育呢？是到一个相对固定场所学习知识，还是成年人传授给孩童生存技巧呢？如果是前者，那么原始状态确实不能实现这样制度化的规模教育；如果是后者，成人言传身教的生存技能，让整个族群的得以生存下去，不断繁衍，这又何尝不是一种成功的教育呢？重雄辩而清逻辑，这是卢梭的老毛病了。然而，他话锋一转，说道：“虽然人类已经很古老了，但是人本身却很幼稚”。多么具有辩证法的一句话啊，历史沧桑的气息扑面而来，仿佛出自一位历尽世事无常、白发苍苍的智者。这就是卢梭。
+社会分工促使人类社会化的产生，将个体凝聚在一起，随着群体中的人越来越多，对比也就不可避免。原始人各自为阵的日子到头了。
+“难以满足的欲望，对财产的热望，与其说是出于真实的需要，不如说是出于对超越别人的渴望。”——第二部分&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/zh/posts/my-first-post/</link>
+      <pubDate>Tue, 04 Nov 2025 15:37:56 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello_world</title>
+      <link>http://localhost:1313/zh/posts/hello_world/</link>
+      <pubDate>Tue, 04 Nov 2025 14:51:05 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/hello_world/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
